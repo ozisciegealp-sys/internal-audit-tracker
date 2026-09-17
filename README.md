@@ -1,5 +1,7 @@
 # İç Denetim Standardizasyonu ve Bulgulardan Eğitim Programı
 
+*Excel system for cross-store internal audits, audit scoring, CAPA tracking and turning recurring findings into training priorities. Documentation in Turkish; all data is synthetic.*
+
 Çok mağazalı bir bölgede iç denetimleri (mağaza müdürlerinin birbirini denetlediği çapraz denetim) ve esas denetimleri **tek ortak yapıda** toplayan, puanlayan, düzeltici-önleyici faaliyetleri (DÖF) izleyen ve **en sık tekrar eden uygunsuzluklardan eğitim önceliği** çıkaran Excel sistemi.
 
 > **Not:** Bu dosya, bir kahve zincirinde 16 mağazalık bölge için kurduğum ve yürüttüğüm yapının **yeniden kurulmuş sürümüdür**. Orijinal dosyalar (şirketin SharePoint ortamındaki iç denetim dosyası ve denetim takvimi) elimde olmadığı için yapı, sistemin nasıl çalıştığı hatırlanarak baştan oluşturulmuştur. Puanlama yöntemi (önem derecesine göre ceza katsayıları) ve gıda güvenliği denetimindeki soru dağılımı, elimde kalan eski bir bölge raporundan alınmıştır.
